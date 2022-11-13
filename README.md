@@ -1,2 +1,2 @@
 # otaFiles
-bin files
+bin file 1
